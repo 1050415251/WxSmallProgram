@@ -1,0 +1,29 @@
+/* pages/sb/sb.wxss */
+.item {
+  background-color: #ddd;
+  display: flex;
+
+}
+
+.imglogo {
+  background-color: greenyellow;
+  width: 100rpx;
+  height: 110rpx;
+  border-radius: 4px;
+  margin-left: 30rpx;
+  margin-top: 20rpx;
+}
+
+.title {
+  font-size: 32rpx;
+  color: #ff4433;
+  margin-left: 20rpx;
+  padding-top: 50rpx;
+}
+
+.addinset {
+  font-size: 46rpx;
+  color: #ff4433;
+  margin-top: 5px;
+}
+

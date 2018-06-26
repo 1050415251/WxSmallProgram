@@ -1,0 +1,7 @@
+
+
+<view class = "item">
+  <view class = "imglogo"></view>
+  <text class = "title">文字</text>
+  <view class = "addinset" style = "flex-direction:column;">10.2%</view>
+</view>

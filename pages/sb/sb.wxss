@@ -2,7 +2,7 @@
 .item {
   background-color: #ddd;
   display: flex;
-
+	
 }
 
 .imglogo {
@@ -18,12 +18,21 @@
   font-size: 32rpx;
   color: #ff4433;
   margin-left: 20rpx;
+  margin-right: 20rpx;
   padding-top: 50rpx;
+  
 }
 
-.addinset {
+.insetrote {
+  
   font-size: 46rpx;
   color: #ff4433;
-  margin-top: 5px;
+  margin-left: 30rpx;
+  margin-top: 20rpx;
+}
+
+.infotime {
+  font-size: 36rpx;
+  align-items: center;  
 }
 

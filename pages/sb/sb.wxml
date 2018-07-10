@@ -1,7 +1,14 @@
 
 
-<view class = "item">
-  <view class = "imglogo"></view>
-  <text class = "title">文字</text>
-  <view class = "addinset" style = "flex-direction:column;">10.2%</view>
+<view class = "item" style = 'display:flex;flex-direction:column;'>
+  <view style = 'display:flex;flex-direction:row;'>
+   <view class = "imglogo"></view>
+   <text class = "title" style = 'display:flex;flex-direction:row;'>文字</text>
+  </view>
+  <view style = 'display:flex;flex-direction:row;align-items: flex-end'>
+  <view class = "insetrote" >10.2%</view>
+  <view style = 'justify-content: space-between'>
+  <view class = "infotime" >36个月</view>
+  </view>
+  </view>
 </view>
